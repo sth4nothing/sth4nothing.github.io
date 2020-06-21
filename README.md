@@ -1,3 +1,3 @@
-# sth4nothing.github.io
+# sth4nothing
 
-[Blog](/blogs/)
+[My Blogs](/blogs/)
