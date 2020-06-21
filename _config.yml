@@ -34,3 +34,17 @@ exclude:
   - vendor
   - Gemfile
   - Gemfile.lock
+
+# --- 评论设置 ---
+# 开启评论，取消下面一行注解，并填写相应评论运营商提供的 id，目前仅支持来必力和 gitment
+comment: true
+# 来必力 uid
+# livere_uid:
+# gitment 用户主，即 GitHub 用户名
+gitment_owner: sth4nothing
+# GitHub pages 仓库名，如：showzeng.github.io
+gitment_repo: sth4nothing.github.io
+# gitment 提供的对应 id 和 secret
+gitment_client_id: 8eb4601c41c24807d052
+gitment_secret: 5437fa9d239e1fb7e803697e62d3c276dbdc54fc
+# --- 评论设置 ---
