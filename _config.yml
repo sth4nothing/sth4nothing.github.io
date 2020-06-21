@@ -48,3 +48,5 @@ gitment_repo: sth4nothing.github.io
 gitment_client_id: 8eb4601c41c24807d052
 gitment_secret: 5437fa9d239e1fb7e803697e62d3c276dbdc54fc
 # --- 评论设置 ---
+
+copyright_time: 2020
