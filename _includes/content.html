@@ -2,7 +2,7 @@
   <div class="content" id="post-content">
     <p>{{ content }}</p>
 
-    <div class="licenses">
+    <div class="licenses" style="display: none;">
       <hr>
       <p>本作品采用<a rel="license"
         href="http://creativecommons.org/licenses/by-nc-nd/4.0/"
@@ -129,7 +129,9 @@
         }
       }
       document.onreadystatechange = function(e) {
-        showComment()
+        if (document.readyState == "interactive") {
+          showComment()
+        }
       }
     </script>
   </div>
