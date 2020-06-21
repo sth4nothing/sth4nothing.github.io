@@ -14,12 +14,12 @@ defaults:
     values:
       image: true
 
-title: Minimalism
-name: minimalism
-description: Minimalism is a jekyll theme for minimalist
+title: Sth4nothing
+name: sth4nothing
+description: Welcome to my space!
 
-github: https://github.com/showzeng/Minimalism
-rss: true
+github: https://github.com/sth4nothing/sth4nothing.github.io
+rss: false
 
 plugins:
   - rouge
