@@ -1,10 +1,6 @@
 language: ruby
 rvm: 2.5
 
-before_install:
-- sudo apt install zlib1g zlib1g-dev
-- sudo apt install ruby-dev
-
 install: ./script/bootstrap
 script: ./script/cibuild
 
